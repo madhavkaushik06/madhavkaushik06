@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-label="Madhav Kaushik. Ideas into interfaces.">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090d19"/><stop offset="1" stop-color="#111d3d"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#60a5fa"/><stop offset="1" stop-color="#a5b4fc"/></linearGradient>
+<pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#6478a0" stroke-opacity=".12"/></pattern>
+</defs>
+<rect width="1280" height="440" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="440" rx="24" fill="url(#grid)"/>
+<g fill="none" stroke="#3b82f6"><circle cx="1115" cy="220" r="185" opacity=".25"/><circle cx="1115" cy="220" r="135" opacity=".35"/><circle cx="1115" cy="220" r="85" opacity=".5"/></g>
+<path d="m1060 185-37 35 37 35m110-70 37 35-37 35m-70-91-28 112" fill="none" stroke="url(#accent)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="64" y="65" width="34" height="4" rx="2" fill="#60a5fa"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="112" y="73" fill="#93a8cc" font-size="15" letter-spacing="4">MADHAVKAUSHIK06 / GITHUB</text>
+<text x="64" y="170" fill="#f5f7ff" font-size="66" font-weight="700" letter-spacing="-3">Madhav Kaushik<tspan fill="#60a5fa">.</tspan></text>
+<text x="64" y="245" fill="url(#accent)" font-size="47" font-weight="700" letter-spacing="-1">Ideas into interfaces.</text>
+<text x="67" y="292" fill="#a4b4d1" font-size="20">Building for the web. Learning by doing.</text>
+<text x="67" y="380" fill="#7185a9" font-size="13" letter-spacing="3">CURIOSITY → CODE → SOMETHING REAL</text>
+</g></svg>
