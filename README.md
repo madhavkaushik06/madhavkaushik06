@@ -67,6 +67,22 @@ My personal portfolio project—a place to present my work and keep developing m
 
 **Built with:** Next.js · TypeScript
 
+## 🧪 University coursework
+
+### PrecisionDecimal · Python decimal representation
+
+A coursework exercise exploring how a custom Python class can represent decimal values using integer hundredths rather than floating-point storage.
+
+**Concepts:** classes · numeric representation · precision · canonical forms
+
+### Warriors · Python programming lab
+
+A Python coursework assignment that forms part of my university programming practice. This work sits alongside my ongoing study of how to read, explain, and reason through code.
+
+**Focus:** Python coursework · code comprehension · step-by-step reasoning
+
+*These are descriptive portfolio titles for coursework, rather than official MacEwan project names. The assignments are not linked to public solution repositories.*
+
 ## 📚 Programming & learning journey
 
 ### Python fundamentals & testing
