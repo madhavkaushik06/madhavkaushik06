@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/header.svg" width="100%" alt="Madhav Kaushik — Ideas into interfaces" /></p>
 
-<h3 align="center">MacEwan University student · Python · Web development · Cloud computing</h3>
+<h3 align="center">MacEwan University student · Developer in training · Entrepreneur</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/madhav-kaushik-b6a752211/"><img src="https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
@@ -96,7 +96,22 @@ My cloud learning includes **IBM's Cloud Computing Core** and **AWS's Introducti
 
 [View my LinkedIn for credential details ↗](https://www.linkedin.com/in/madhav-kaushik-b6a752211/)
 
-## 💼 Business experience & transferable skills
+## 💡 Entrepreneurship & business experience
+
+### 🌱 WeedOutYEG · Founder & Owner
+
+I founded a seasonal weed-removal business in Edmonton, managing the work from customer outreach through service delivery.
+
+- Handle marketing and customer communication.
+- Coordinate appointments, scheduling, and service delivery.
+- Build customer relationships through reliable service and referrals.
+- Balance customer expectations with the practical demands of running a local business.
+
+Starting a business has shaped how I approach technology: understand a real need, take responsibility for the solution, and keep improving based on feedback. As my programming skills grow, I'm interested in applying them to everyday business workflows.
+
+### 🚚 U-Haul · Logistics Coordinator
+
+My logistics coordination experience has strengthened my organization and communication skills, adding to my understanding of how day-to-day service operations work.
 
 ### Business operations · Quiznos & Little Caesars
 
